@@ -9,6 +9,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=Gmail&logoColor=white)](mailto:laizagordiano.5@gmail.com)
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![IntelliJ](https://img.shields.io/badge/IntelliJ-%7B68EE.svg?style=plastic&logo=IntelliJIDEA&logoColor=black) ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-%DC143C.svg?style=plastic&logo=VisualStudioCode&logoColor=black)
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=laizagordiano&theme=bear&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=laizagordiano&theme=bear&hide_border=true)<br/>
