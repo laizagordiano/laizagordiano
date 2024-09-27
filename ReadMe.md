@@ -5,11 +5,30 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/laizagordiano) 
-[![Gmail](https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=Gmail&logoColor=white)](mailto:laizagordiano.5@gmail.com)
+<a href="https://instagram.com/laizagordiano" target="_blank">
+    <img align="center" alt="Instagram" height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
+</a>
+<a href="mailto:laizagordiano.5@gmail.com" target="_blank">
+    <img align="center" alt="Gmail" height="30" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white">
+</a>
+
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![IntelliJ](https://img.shields.io/badge/IntelliJ-%7B68EE.svg?style=plastic&logo=IntelliJIDEA&logoColor=black) ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-%DC143C.svg?style=plastic&logo=VisualStudioCode&logoColor=black)
-![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" title= "GIT" /></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title = "InlliJIDEA"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title = "VISUALSTUDIO CODE"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code> 
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title= "TYPESCRIPT" /></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title= "C"/></code>
+<code><img heigth="60px" src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat&logo=stmicroelectronics&logoColor=white" title="STM32" /></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title= "MYSQL" /></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title= "SQL" /></code>
+<code><img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_verilog_icon_130092.png" title= "VERILOG" /></code>
+
+
+          
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=laizagordiano&theme=bear&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=laizagordiano&theme=bear&hide_border=true)<br/>
