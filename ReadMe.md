@@ -29,3 +29,8 @@
 <code><img height="28px" src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat&logo=stmicroelectronics&logoColor=white" title="STM32"/></code>
 
 </div>
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=laizagordiano&theme=bear&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=laizagordiano&theme=bear&hide_border=true)<br/>
+</div>
